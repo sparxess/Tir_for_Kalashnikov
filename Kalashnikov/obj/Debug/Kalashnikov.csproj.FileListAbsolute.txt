@@ -1,0 +1,7 @@
+C:\Users\frsa\Desktop\Kalashnikov\Kalashnikov\bin\Debug\Kalashnikov.exe.config
+C:\Users\frsa\Desktop\Kalashnikov\Kalashnikov\bin\Debug\Kalashnikov.exe
+C:\Users\frsa\Desktop\Kalashnikov\Kalashnikov\bin\Debug\Kalashnikov.pdb
+C:\Users\frsa\Desktop\Kalashnikov\Kalashnikov\obj\Debug\Kalashnikov.csproj.AssemblyReference.cache
+C:\Users\frsa\Desktop\Kalashnikov\Kalashnikov\obj\Debug\Kalashnikov.csproj.CoreCompileInputs.cache
+C:\Users\frsa\Desktop\Kalashnikov\Kalashnikov\obj\Debug\Kalashnikov.exe
+C:\Users\frsa\Desktop\Kalashnikov\Kalashnikov\obj\Debug\Kalashnikov.pdb
